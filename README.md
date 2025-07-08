@@ -1,0 +1,2 @@
+# cashierapp
+レジアプリ　
